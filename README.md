@@ -8,7 +8,7 @@ This project was built as part of the CreatorsMela Front-End Developer Assignmen
 
 ## 🌐 Live Demo
 
-**Live URL:** https://your-live-url.com
+**Live URL:** [https://your-live-url.com](https://creatorsmela-brand-dashboard.vercel.app/)
 
 ---
 
