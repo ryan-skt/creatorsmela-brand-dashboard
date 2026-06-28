@@ -22,40 +22,37 @@ This project was built as part of the CreatorsMela Front-End Developer Assignmen
 
 ## Dashboard
 
-<img src="./screenshots/dashboard.png" width="100%">
+<img src="./src/assets/screenshots/dashboard.png" width="100%">
 
 ---
 
 ## Campaigns
 
-<img src="./screenshots/campaigns.png" width="100%">
+<img src="./src/assets/screenshots/campaigns.png" width="100%">
 
 ---
 
 ## Creators
 
-<img src="./screenshots/creators.png" width="100%">
+<img src="./src/assets/screenshots/creators.png" width="100%">
 
 ---
 
 ## Reports
 
-<img src="./screenshots/reports.png" width="100%">
+<img src="./src/assets/screenshots/reports.png" width="100%">
 
 ---
 
 ## Messages
 
-<img src="./screenshots/messages.png" width="100%">
+<img src="./src/assets/screenshots/messages.png" width="100%">
 
 ---
 
 ## Settings
 
-<img src="./screenshots/settings.png" width="100%">
-
----
-
+<img src="./src/assets/screenshots/settings.png" width="100%">
 # ✨ Features
 
 ### 📊 Dashboard
